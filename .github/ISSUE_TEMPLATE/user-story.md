@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-As as **role** I want the ability to **desired action**
+As a **role** I want the ability to **desired action**
