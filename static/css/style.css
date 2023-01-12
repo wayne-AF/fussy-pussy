@@ -1,0 +1,79 @@
+/* --------------------------------------------------General */
+
+.text-underline-hover:hover {
+    text-decoration: underline;
+}
+
+.main-bg {
+    margin-bottom: 10em;
+}
+
+/* --------------------------------------------------Navbar */
+
+.navbar {
+    background-color: #DBA39A;
+    padding-left: 1em;
+    padding-right: 1em;
+    --bs-navbar-nav-link-padding-x: 1rem;
+}
+
+.navbar-brand {
+    font-family: 'Elsie Swash Caps', cursive;
+    font-weight: 900;
+    color: #FEFCF3;
+    font-size: 2.5rem;
+}
+
+.nav-link {
+    color: #FEFCF3;
+}
+
+.dropdown-menu {
+    
+    background-color: #DBA39A;
+    --bs-dropdown-font-size: 1.25rem;
+    --bs-dropdown-color: #DBA39A;
+    --bs-dropdown-link-hover-bg: #FEFCF3;
+    --bs-dropdown-link-hover-color: #DBA39A;
+    --bs-dropdown-link-active-color: #FEFCF3;
+    --bs-dropdown-link-active-bg: #DBA39A;
+    border: none;
+    margin-right: 0.125em;
+}
+
+.dropdown-item {
+    color: #FEFCF3;
+}
+
+
+/* --------------------------------------------------Body */
+
+body {
+    background-color: #FEFCF3;
+}
+
+
+/* --------------------------------------------------Footer */
+
+footer {
+    color: #FEFCF3;
+    background-color: #DBA39A;
+    padding-bottom: 0.125em;
+    text-align: center;
+}
+
+/* social icons */
+.social {
+    margin: 20px 10px;
+    color: #FEFCF3;
+    font-size: 1.5rem;
+    
+}
+
+h3 {
+    font-family: 'Elsie Swash Caps', cursive;
+    font-weight: 400;
+    color: #FEFCF3;
+    font-size: 4rem;
+
+}
